@@ -11,3 +11,5 @@
 5-listfilesdigitonly --- This is a script that list files
 
 my_first_directory --- This is a Script that Creates a new dir in tmp dir
+
+7-movethatfile --- moving betty file
