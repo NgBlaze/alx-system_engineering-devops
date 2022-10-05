@@ -21,3 +21,7 @@ my_first_directory --- This is a Script that Creates a new dir in tmp dir
 10-back --- Script to go one directory back
 
 11-lists --- Script to list several files from diffrent dir
+
+iamafile --- Script to show file type
+
+
