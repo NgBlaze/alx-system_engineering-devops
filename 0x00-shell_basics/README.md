@@ -24,4 +24,5 @@ my_first_directory --- This is a Script that Creates a new dir in tmp dir
 
 iamafile --- Script to show file type
 
+13-symbolic_link --- Created a script for symbolic link
 
