@@ -6,4 +6,8 @@
 
 3-listfiles --- This is a script that list files in long format
 
-4-listmorefiles --- This is a script that list hidden files in a directory
+4-listmorefiles --- This is a script that list hidden files in a director
+
+5-listfilesdigitonly --- This is a script that list files
+
+
