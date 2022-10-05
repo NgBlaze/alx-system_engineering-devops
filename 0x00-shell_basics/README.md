@@ -30,4 +30,6 @@ iamafile --- Script to show file type
 
 100-lets_move --- Created Script for moving uppercase files
 
+101-clean_emacs -- Created a Script to delete Emac files
+
 
