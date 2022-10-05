@@ -17,3 +17,7 @@ my_first_directory --- This is a Script that Creates a new dir in tmp dir
 8-firstdelete --- Deleted betty file
 
 9-firstdirdeletion --- Deletd my first directory
+
+10-back --- Script to go one directory back
+
+
