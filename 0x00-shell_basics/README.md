@@ -32,4 +32,4 @@ iamafile --- Script to show file type
 
 101-clean_emacs -- Created a Script to delete Emac files
 
-
+102-tree -- Create a Script to create multiple directories at once
