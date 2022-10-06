@@ -32,4 +32,6 @@ groups - Script that displays groups
 
 101-symbolic_link_permissions - Created a script for symbolic file users and groups
 
+102-if_only - Created script using if
+
 103-Star_Wars - Script for star wars file
