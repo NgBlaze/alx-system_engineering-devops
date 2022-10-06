@@ -29,3 +29,7 @@ groups - Script that displays groups
 13-change_group - Created script to change group
 
 100-change_owner_and_group - Created a script for users and groups 
+
+101-symbolic_link_permissions - Created a script for symbolic file users and groups
+
+
