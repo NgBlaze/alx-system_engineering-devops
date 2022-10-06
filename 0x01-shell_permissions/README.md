@@ -13,3 +13,7 @@ groups - Script that displays groups
 5-execute - Created a script with execute permissions
 
 6-multiple_permissions - Created a Script with execute permissions
+
+7-everybody - Created a script with execution permission
+
+
