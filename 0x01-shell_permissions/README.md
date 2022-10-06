@@ -25,3 +25,5 @@ groups - Script that displays groups
 11-directories_permissions - Script for sub dir 
 
 12-directory_permissions - Created script and permission directly
+
+13-change_group - Created script to change group
