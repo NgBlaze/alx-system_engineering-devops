@@ -27,3 +27,5 @@ groups - Script that displays groups
 12-directory_permissions - Created script and permission directly
 
 13-change_group - Created script to change group
+
+100-change_owner_and_group - Created a script for users and groups 
