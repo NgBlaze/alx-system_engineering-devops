@@ -16,4 +16,6 @@ groups - Script that displays groups
 
 7-everybody - Created a script with execution permission
 
+8-James_Bond - Created a Scripth with execution for others only
+
 
