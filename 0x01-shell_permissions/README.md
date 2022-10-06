@@ -5,3 +5,7 @@ This is a Readme file describing uses of each script
 whoami - Script that displays current user
 
 groups - Script that displays groups
+
+3-new_owner - Script that changes ownership"
+
+
