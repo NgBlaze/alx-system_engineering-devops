@@ -23,3 +23,5 @@ groups - Script that displays groups
 10-mirror_permissions - Script to mirror Permissions
 
 11-directories_permissions - Script for sub dir 
+
+12-directory_permissions - Created script and permission directly
