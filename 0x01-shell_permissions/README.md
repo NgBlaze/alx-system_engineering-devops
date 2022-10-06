@@ -11,3 +11,5 @@ groups - Script that displays groups
 4-empty - Script that creates a new file
 
 5-execute - Created a script with execute permissions
+
+6-multiple_permissions - Created a Script with execute permissions
