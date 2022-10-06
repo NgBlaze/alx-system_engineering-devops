@@ -20,4 +20,6 @@ groups - Script that displays groups
 
 9-John_Doe - Created and updated Script
 
-10-mirror_permissions - Script to mirror Permissions 
+10-mirror_permissions - Script to mirror Permissions
+
+11-directories_permissions - Script for sub dir 
