@@ -18,4 +18,6 @@ groups - Script that displays groups
 
 8-James_Bond - Created a Script with execution for others only
 
-9-John_Doe - Created and updated Script 
+9-John_Doe - Created and updated Script
+
+10-mirror_permissions - Script to mirror Permissions 
