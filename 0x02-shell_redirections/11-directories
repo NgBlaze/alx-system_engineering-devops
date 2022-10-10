@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -laR ./**/*(.)
+find . -type d -path './*' -print | wc -l
+
