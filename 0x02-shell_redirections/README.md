@@ -21,3 +21,5 @@ This is a Readme file for shell Redirections
 9-duplicate_last_line - Created a script to duplicate line
 
 10-no_more_js - Created a script to delete js files
+
+11-directories - Created a directory Scrit
