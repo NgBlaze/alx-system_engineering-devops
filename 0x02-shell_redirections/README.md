@@ -15,3 +15,5 @@ This is a Readme file for shell Redirections
 6-third_line - Created a Script to display 3rd line of iota file
 
 7-file - Created a shell script that creates a file
+
+8-cwd_state - Created a Script to save curr
