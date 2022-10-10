@@ -17,3 +17,5 @@ This is a Readme file for shell Redirections
 7-file - Created a shell script that creates a file
 
 8-cwd_state - Created a Script to save curr
+
+9-duplicate_last_line - Created a script to duplicate line
