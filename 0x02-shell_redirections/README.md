@@ -7,3 +7,5 @@ This is a Readme file for shell Redirections
 2-hellofile - Created a script to view psswd file
 
 3-twofiles - Created a script to view content of two files
+
+4-lastlines - Created a script to view 10 lines of a file
