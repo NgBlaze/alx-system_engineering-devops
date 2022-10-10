@@ -26,4 +26,6 @@ This is a Readme file for shell Redirections
 
 12-newest_files - Created Whats new Script
 
-13-unique - 
+13-unique - Created a Script
+
+14-findthatword - Created Script to match pattern 
