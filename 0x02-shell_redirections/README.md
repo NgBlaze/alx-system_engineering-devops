@@ -13,3 +13,5 @@ This is a Readme file for shell Redirections
 5-firstlines - Created Script to view first 10 lines in a script
 
 6-third_line - Created a Script to display 3rd line of iota file
+
+7-file - Created a shell script that creates a file
