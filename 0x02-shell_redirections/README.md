@@ -45,3 +45,5 @@ This is a Readme file for shell Redirections
 21-reverse - 
 mandatory
 Write a script that reverse its input.
+
+22-users_and_homes - Sort
