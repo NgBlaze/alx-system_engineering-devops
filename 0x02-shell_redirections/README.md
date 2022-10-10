@@ -30,4 +30,6 @@ This is a Readme file for shell Redirections
 
 14-findthatword - Created Script to match pattern
 
-15-countthatword - Word Count Script 
+15-countthatword - Word Count Script
+
+16-whatsnext - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd 
