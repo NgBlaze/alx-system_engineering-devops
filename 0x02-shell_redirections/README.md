@@ -28,4 +28,6 @@ This is a Readme file for shell Redirections
 
 13-unique - Created a Script
 
-14-findthatword - Created Script to match pattern 
+14-findthatword - Created Script to match pattern
+
+15-countthatword - Word Count Script 
