@@ -9,3 +9,5 @@ This is a Readme file for shell Redirections
 3-twofiles - Created a script to view content of two files
 
 4-lastlines - Created a script to view 10 lines of a file
+
+5-firstlines - Created Script to view first 10 lines in a script
